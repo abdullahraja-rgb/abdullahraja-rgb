@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]  
+# Hi there 👋, I'm Abdullah Raja 
 Welcome to my GitHub! I'm a **1st-year Computer Science student** at the **University of Leeds** with a passion for **Software Engineering**, **AI**, and **building applications**. I love solving challenging problems and working on AI-driven projects.  
 
 ---
@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a **1st-year Computer Science student** at the **Unive
 - 🤖 **Recent Project:** [Premier League Match Prediction](#) – Built an ML model to predict match outcomes  
 - 🌱 **Currently Learning:** Advanced AI techniques, Flask, and Deep Learning  
 - 🔍 **Looking for:** Software engineering, AI, or tech-based internship opportunities  
-- 📫 **How to Reach Me:** [Your Email or Socials]  
+- 📫 **How to Reach Me:** [abzino578@gmail.com]  
 
 ---
 
@@ -50,15 +50,12 @@ Welcome to my GitHub! I'm a **1st-year Computer Science student** at the **Unive
 
 ## 🎯 My Latest Projects  
 📌 **[Premier League Match Prediction](#)** – Machine Learning model to predict match results based on historical data  
-📌 **[Another Project Name](#)** – Brief description of your project  
-📌 **[Yet Another Project](#)** – Brief description  
+📌 **[Another Project Name](#)** – Brief description of your project 
 
 ---
 
 ## 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourProfile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YourPortfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdullah-raja-5951aa24b)  
 
 ---
 
