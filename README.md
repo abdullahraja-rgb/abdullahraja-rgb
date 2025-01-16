@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a **1st-year Computer Science student** at the **Unive
 - 🎓 **Currently Studying:** BSc Computer Science at **University of Leeds** (1st Year)  
 - 💡 **Interests:** AI, Machine Learning, Software Engineering, Web Development  
 - 🤖 **Recent Project:** [Premier League Match Prediction](#) – Built an ML model to predict match outcomes  
-- 🌱 **Currently Learning:** Advanced AI techniques, Flask, and Deep Learning  
+- 🌱 **Currently Learning:** AI, Full-Stack Development
 - 🔍 **Looking for:** Software engineering, AI, or tech-based internship opportunities  
 - 📫 **How to Reach Me:** [abzino578@gmail.com]  
 
