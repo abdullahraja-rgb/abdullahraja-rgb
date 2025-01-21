@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **1st-year Computer Science student** at the **Unive
 ## 🚀 About Me  
 - 🎓 **Currently Studying:** BSc Computer Science at **University of Leeds** (1st Year)  
 - 💡 **Interests:** AI, Machine Learning, Software Engineering, Web Development  
-- 🤖 **Recent Project:** [Premier League Match Prediction](#) – Built an ML model to predict match outcomes  
+- 🤖 **Recent Project:** [FootyIQ](#) – Built an ML model to predict match outcomes  
 - 🌱 **Currently Learning:** AI, Full-Stack Development
 - 🔍 **Looking for:** Software engineering, AI, or tech-based internship opportunities  
 - 📫 **How to Reach Me:** [abzino578@gmail.com]  
@@ -25,23 +25,12 @@ Welcome to my GitHub! I'm a **1st-year Computer Science student** at the **Unive
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
 
-## 📊 GitHub Stats & Activity  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" />
-    </td>
-  </tr>
-</table>
 
 
 ## 🎯 My Latest Projects  
 📌 **[FootyIQ](#)** – Machine Learning model to predict match results and PL Stats 
+
 📌 **[Calories](#)** – A calorie tracking web application
 
 ---
