@@ -39,18 +39,10 @@ Welcome to my GitHub! I'm a **1st-year Computer Science student** at the **Unive
   </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&margin-w=5)
-
----
 
 ## 🎯 My Latest Projects  
-📌 **[Premier League Match Prediction](#)** – Machine Learning model to predict match results based on historical data  
-📌 **[Another Project Name](#)** – Brief description of your project 
+📌 **[FootyIQ](#)** – Machine Learning model to predict match results and PL Stats 
+📌 **[Calories](#)** – A calorie tracking web application
 
 ---
 
