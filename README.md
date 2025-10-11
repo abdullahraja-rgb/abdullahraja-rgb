@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Abdullah Raja 
-Welcome to my GitHub! I'm a **1st-year Computer Science student** at the **University of Leeds** with a passion for **Software Engineering**, **AI**, and **building applications**. I love solving challenging problems and working on AI-driven projects.  
+Welcome to my GitHub! I'm a **2nd-year Computer Science student** at the **University of Leeds** with a passion for **Software Engineering**, **AI**, and **building applications**. I love solving challenging problems and working on AI-driven projects.  
 
 ---
 
