@@ -52,14 +52,12 @@ I am a **2nd-year student** passionate about building and maintaining **scalable
 ### ⚽ [FootyIQ](#)
 *Predictive Analytics & Sports Data*
 A Machine Learning model designed to predict match outcomes and analyze Premier League statistics.
-- **Stack:** Python, Pandas, Scikit-Learn
-- **Key Tech:** Predictive Modeling, Data Analysis
+
 
 ### 🍎 [Calories](#)
 *Health & Fitness Tracking*
 A full-stack web application for tracking daily caloric intake and nutritional macros.
-- **Stack:** React, Node.js, MongoDB
-- **Key Tech:** RESTful APIs, User Authentication
+
 
 ---
 
