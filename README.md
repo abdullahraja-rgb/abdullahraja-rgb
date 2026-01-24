@@ -1,46 +1,70 @@
-# Hi there 👋, I'm Abdullah Raja 
-Welcome to my GitHub! I'm a **2nd-year Computer Science student** at the **University of Leeds** with a passion for **Software Engineering**, **AI**, and **building applications**. I love solving challenging problems and working on AI-driven projects.  
+<div align="center">
+
+# Hi there 👋, I'm Abdullah Raja
+
+### Computer Science Student @ University of Leeds
+
+I am a **2nd-year student** passionate about building and maintaining **scalable, user-friendly systems**. I have a strong interest in **mathematics** and am actively exploring its **applications across technology and finance**.
+
+[Projects](#-projects) • [Tech Stack](#-tech-stack) • [Connect](#-connect-with-me)
 
 ---
 
-## 🚀 About Me  
-- 🎓 **Currently Studying:** BSc Computer Science at **University of Leeds** (1st Year)  
-- 💡 **Interests:** AI, Machine Learning, Software Engineering, Web Development  
-- 🤖 **Recent Project:** [FootyIQ](#) – Built an ML model to predict match outcomes  
-- 🌱 **Currently Learning:** AI, Full-Stack Development
-- 🔍 **Looking for:** Software engineering, AI, or tech-based internship opportunities  
-- 📫 **How to Reach Me:** [abzino578@gmail.com]  
+</div>
+
+## 🚀 About Me
+- 🎓 **Education:** BSc Computer Science at the **University of Leeds** (2nd Year)
+- 💼 **Experience:** Software Engineering Intern at **Humant**
+- 💡 **Interests:** Scalable Architecture, System Design, and Mathematical Applications in Finance/Tech
+- 🌱 **Currently Learning:** Advanced Data Structures, FastAPI, and Financial Computing
+- 📫 **Reach me at:** [abzino578@gmail.com](mailto:abzino578@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## 🛠️ Tech Stack
 
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
+### Backend & API
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🎯 My Latest Projects  
-📌 **[FootyIQ](#)** – Machine Learning model to predict match results and PL Stats 
-
-📌 **[Calories](#)** – A calorie tracking web application
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-## 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdullah-raja-5951aa24b)  
+## 🎯 Featured Projects
+
+### ⚽ [FootyIQ](#)
+*Predictive Analytics & Sports Data*
+A Machine Learning model designed to predict match outcomes and analyze Premier League statistics.
+- **Stack:** Python, Pandas, Scikit-Learn
+- **Key Tech:** Predictive Modeling, Data Analysis
+
+### 🍎 [Calories](#)
+*Health & Fitness Tracking*
+A full-stack web application for tracking daily caloric intake and nutritional macros.
+- **Stack:** React, Node.js, MongoDB
+- **Key Tech:** RESTful APIs, User Authentication
 
 ---
 
-### 📌 **Fun Fact:**  
-🧠 Did you know? AI is expected to create **97 million new jobs** by 2025!  
+## 🌍 Connect With Me
+<a href="https://www.linkedin.com/in/abdullah-raja-5951aa24b">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-Thanks for visiting my profile! 🚀🔥  
