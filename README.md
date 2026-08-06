@@ -17,7 +17,7 @@
 ---
 
 <h3>
-  <a href="REPO-LINK">HUMANT Revisit</a> &mdash;
+  HUMANT Revisit &mdash;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" align="top" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="22" align="top" alt="Next.js" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="22" align="top" alt="TypeScript" title="TypeScript" />
@@ -32,7 +32,7 @@ A remote occupational therapy assessment platform supporting patient management,
 ---
 
 <h3>
-  <a href="REPO-LINK">Algorithm Visualiser</a> &mdash;
+  Algorithm Visualiser &mdash;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" align="top" alt="C++" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" align="top" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="22" align="top" alt="TypeScript" title="TypeScript" />
@@ -45,7 +45,7 @@ An interactive platform for visualising data structures and algorithms, with a C
 ---
 
 <h3>
-  <a href="REPO-LINK">C Compiler</a> &mdash;
+  C Compiler &mdash;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" align="top" alt="C++" title="C++" />
 </h3>
 
