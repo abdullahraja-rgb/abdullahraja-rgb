@@ -1,42 +1,54 @@
 <div align="center">
 
-# Abdullah Raja
+<h1>Abdullah Raja</h1>
 
-CS & AI student at the University of Leeds, graduating in 2027.
+<p>
+  CS &amp; AI student at the University of Leeds, graduating 2027.<br>
+  Interested in applying technology across sectors — particularly software engineering and data science.
+</p>
 
-I am interested in applying technology across different sectors, with a particular interest in software engineering and data science.
+<p>
+  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abzino578@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## Projects I am currently working on
+</div>
+
+---
 
 <h3>
-  HUMANT Revisit
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" title="React Native" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="Next.js" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="20" alt="Azure" title="Microsoft Azure" />
+  <a href="REPO-LINK">HUMANT Revisit</a> &mdash;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" align="top" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="22" align="top" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="22" align="top" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22" align="top" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="22" align="top" alt="Azure" title="Microsoft Azure" />
 </h3>
 
 A remote occupational therapy assessment platform supporting patient management, mobile scanning, 3D model processing and healthcare data integration.
 
-<h3>
-  Algorithm Visualiser
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="C++" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="TypeScript" title="TypeScript" />
-</h3>
+*Currently: extending the 3D viewer and fine-tuning LiDAR scan processing.*
 
-An interactive platform for visualising and exploring data structures and algorithms using C++ and React.
+---
 
 <h3>
-  C Compiler
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="C++" title="C++" />
+  <a href="REPO-LINK">Algorithm Visualiser</a> &mdash;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" align="top" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" align="top" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="22" align="top" alt="TypeScript" title="TypeScript" />
 </h3>
 
-A command-line C compiler written in C++. I am continuously expanding its capabilities as I learn more about compilers, language processing and low-level systems.
+An interactive platform for visualising data structures and algorithms, with a C++ core compiled to WebAssembly and a React front end.
 
+*Currently: adding more complex algorithms to the visualisation set.*
 
-</div>
+---
+
+<h3>
+  <a href="REPO-LINK">C Compiler</a> &mdash;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" align="top" alt="C++" title="C++" />
+</h3>
+
+A command-line C compiler written in C++.
+
+*Currently: expanding its capabilities as I go deeper into compilers, language processing and low-level systems.*
